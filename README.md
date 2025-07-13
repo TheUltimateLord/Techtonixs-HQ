@@ -1,4 +1,5 @@
-# Techtonixs-HQ
+# Techtonix-HQ
+
 # 👋 Hey, I'm Thatoyaona – Founder of Techtonix Holdings
 
 🧠 Passionate self-taught Front-end Developer | 🎓 Diploma in Website Development  
@@ -31,8 +32,8 @@
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/thatoyaona-lekabe-tech)  
-- 🐦 @Milli_Yawn  
+- 🔗 [LinkedIn](https://linkedin.com/in/thatoyaona-lekabe-tech)
+- 🐦 [Twitter: @Milli_Yawn](https://twitter.com/Milli_Yawn)
 - 🌍 Techtonix Holdings | 710 Sandleford Ave, Midrand, South Africa
 
 ---
